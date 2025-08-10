@@ -3,8 +3,7 @@
     {
       "source": "/:match*",
       "destination": "https://club.zapkapowcomics.com/:match*",
-      "permanent": true,
-      "statusCode": 301
+      "permanent": true
     }
   ]
 }
